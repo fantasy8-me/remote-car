@@ -1,5 +1,5 @@
 {
-    "name": "remote-fly-car",
+    "name": "remote-car",
     "description": "",
     "dependencies": {
         "core": "*",
